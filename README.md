@@ -122,8 +122,12 @@ Me chamo Eduardo Meyer, sou formado em Ciência da Computação pela instituiç�
 
 ### 📊 Estatísticas
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMeyer&theme=tokyonight&layout=compact&custom_title=Tecnologias"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoMeyer&theme=tokyonight"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMeyer&layout=compact&theme=tokyonight"/>
 </p>
+
 
 ### 🌎 Contato
 
