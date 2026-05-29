@@ -1,28 +1,8 @@
 # 👨🏻‍💻 Eduardo Meyer
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor`**
 
-Me chamo Eduardo Meyer, sou estudante de Ciência da Computação na UNIFESO e apaixonado por tecnologia, desenvolvimento web, automação e Inteligência Artificial. Atualmente desenvolvo projetos voltados para sistemas web, aplicativos e soluções inteligentes.
-
-<p align="left">
-    <a href="https://github.com/EduardoMeyer?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/EduardoMeyer?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-
-<a href="https://github.com/EduardoMeyer?tab=repositories&sort=stargazers">
-        <img 
-            alt="Estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/EduardoMeyer?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
-</p>
-
----
+Me chamo Eduardo Meyer, sou formado em Ciência da Computação pela instituição UNIFESO e apaixonado por tecnologia, desenvolvimento web, automação e Inteligência Artificial. Atualmente desenvolvo projetos voltados para sistemas web, aplicativos e soluções inteligentes.
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -123,10 +103,11 @@ Me chamo Eduardo Meyer, sou estudante de Ciência da Computação na UNIFESO e a
 
 ### 🚀 Projetos
 
-* ⚽ PeladaPro
 * 👶 BabyGuard
 * 🌐 Sistemas Web
 * 🤖 Automações com IA
+* 💬 ChatBots Inteligentes
+* 📲 Integrações com WhatsApp
 
 ---
 
@@ -164,4 +145,4 @@ Me chamo Eduardo Meyer, sou estudante de Ciência da Computação na UNIFESO e a
 
 📧 [Dududetere10@gmail.com](mailto:Dududetere10@gmail.com)
 
-💼 Desenvolvedor FullStack | IA | Automação | Web Developer
+💼 Desenvolvedor | IA | Automação | Web Developer
