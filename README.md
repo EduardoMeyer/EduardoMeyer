@@ -4,6 +4,15 @@
 
 Me chamo Eduardo Meyer, sou formado em Ciência da Computação pela instituição UNIFESO e apaixonado por tecnologia, desenvolvimento web, automação e Inteligência Artificial. Atualmente desenvolvo projetos voltados para sistemas web, aplicativos e soluções inteligentes.
 
+🚀 Sobre mim
+
+💻 Desenvolvedor Web
+🤖 Automação com Inteligência Artificial
+📲 Integrações com WhatsApp
+💬 Desenvolvimento de ChatBots
+🌐 Criação de Sistemas Web
+📚 Sempre aprendendo novas tecnologias
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -118,11 +127,7 @@ Me chamo Eduardo Meyer, sou formado em Ciência da Computação pela instituiç�
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMeyer&theme=tokyonight&layout=compact&custom_title=Tecnologias"/>
 </p>
-```
-
 
 ### 🌎 Contato
 
 📧 [Dududetere10@gmail.com](mailto:Dududetere10@gmail.com)
-
-💼 Desenvolvedor | IA | Automação | Web Developer
