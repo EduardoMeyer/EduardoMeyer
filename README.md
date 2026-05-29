@@ -113,9 +113,6 @@ Me chamo Eduardo Meyer, sou formado em Ciência da Computação pela instituiç�
 
 ### 📊 Estatísticas
 
-```html
-### 📊 Estatísticas
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoMeyer&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 
